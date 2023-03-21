@@ -1,13 +1,19 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: {{your plugin name here}}
-Upstream-Contact: {{your name here}} <{{your email here}}>
-Source: {{your plugin github url here}}
+Upstream-Name: es-callisto
+Upstream-Contact: mOctave <mOctave31415@gmail.com>
+Source: https://github.com/mOctave/es-callisto
 
 Files: *
-Copyright: {{your name and email again}}
+Copyright: mOctave <mOctave31415@gmail.com>
 
 Files:
  icon*.png
 Copyright: Michael Zahniser <mzahniser@gmail.com>
 License: CC-BY-SA-4.0
 Comment: Update this when you create your plugin's icon!
+
+Files:
+ images/land/callisto*
+Copyright: W. Zięba
+License: CC-BY-4.0
+Comment: Retrieved from Wikimedia Commons.

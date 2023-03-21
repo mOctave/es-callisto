@@ -1,2 +1,1 @@
-Enter some text that describes your plugin in this file.
-Endless Sky will then display it when the user has your plugin installed and selected.
+This plugin adds a little bit of backstory about Jupiter's moon Callisto, nuclear weapons, and the Turf Wars, in the form of making Callisto actually landable.
